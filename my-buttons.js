@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded',()=>{
 
     let puLinkedInButtonDiv = document.createElement('div');
     puLinkedInButtonDiv.style.backgroundImage = `url("https://i.ibb.co/NW6S90t/linkedIn.png")`;
-    puGitButtonDiv.style.backgroundColor = "white";
+    puLinkedInButtonDiv.style.backgroundColor = "white";
     puLinkedInButtonDiv.style.position = "absolute";
     puLinkedInButtonDiv.style.right = "80px";
     puLinkedInButtonDiv.style.bottom = "30px";
